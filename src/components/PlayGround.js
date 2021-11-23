@@ -52,19 +52,19 @@ export default function PlayGround() {
             <div style={{display:"flex", flexDirection:"row", justifyContent:"space-around"}}>
                 <div>
                     <h3 data-testid="player-score">{`You: ${calculateScore(computerGrid)}`}</h3>
-                    <OceanGrid 
-                    colsIndexs={colsIndexs}
-                    rowsIndexs={rowsIndexs}
-                    grid={playerGrid}/>
+                        <OceanGrid 
+                        colsIndexs={colsIndexs}
+                        rowsIndexs={rowsIndexs}
+                        grid={playerGrid}/>
                 </div>
                 <div>
                     <h3 data-testid="computer-score">{`Computer: ${calculateScore(playerGrid)}`}</h3>
-                    <WarpOceanGridWithCover 
-                    colsIndexs={colsIndexs}
-                    rowsIndexs={rowsIndexs}
-                    coverGrid={coverGrid} 
-                    grid={computerGrid}
-                    setCoverGrid={setCoverGrid}
+                        <WarpOceanGridWithCover 
+                        colsIndexs={colsIndexs}
+                        rowsIndexs={rowsIndexs}
+                        coverGrid={coverGrid} 
+                        grid={computerGrid}
+                        setCoverGrid={setCoverGrid}
                     />
                 </div>
             </div>
@@ -104,19 +104,19 @@ export default function PlayGround() {
                 />
             }
             </div>
-            <EndGameDialog
-            setGameState={setGameState}
-            numRows={numRows}
-            numCols={numCols}
-            setPlayerGrid={setPlayerGrid}
-            setComputerGrid={setComputerGrid}
-            setCoverGrid={setCoverGrid}
-            setShips={setShips}
-            setWinner={setWinner}
-            winner={winner}
-            open={dialogOpen} 
-            setOpen={setDialogOpen}
-            />
+                <EndGameDialog
+                setGameState={setGameState}
+                numRows={numRows}
+                numCols={numCols}
+                setPlayerGrid={setPlayerGrid}
+                setComputerGrid={setComputerGrid}
+                setCoverGrid={setCoverGrid}
+                setShips={setShips}
+                setWinner={setWinner}
+                winner={winner}
+                open={dialogOpen} 
+                setOpen={setDialogOpen}
+                />
         </div>
     );
 }
