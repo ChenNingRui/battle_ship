@@ -98,7 +98,7 @@ export default function DeploymentBar(props) {
             }
           </Select>
         </FormControl>
-        </Box>
+      </Box>
       <Button data-testid="button-deploy" variant="contained" sx={{marginLeft:"10px"}} onClick={handleDeployedButtonClick}>Deploy</Button>
       <Button data-testid="button-reset" variant="contained" sx={{marginLeft:"10px"}} onClick={handleResetButtonClick}>Reset</Button>
       <Button data-testid="button-start" variant="contained" sx={{marginLeft:"10px"}} onClick={handleStartButtonClick}>Start</Button>
