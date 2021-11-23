@@ -1,0 +1,3226 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+    style="display: flex; flex-direction: column;"
+  >
+    <div
+      style="display: flex; flex-direction: row; justify-content: space-around;"
+    >
+      <div>
+        <h3>
+          You: 0
+        </h3>
+        <div>
+          <div
+            style="display: flex; flex-direction: row; margin-left: 20px;"
+          >
+            <h5
+              style="margin: 11.5px;"
+            >
+              A
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              B
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              C
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              D
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              E
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              F
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              G
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              H
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              I
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              J
+            </h5>
+          </div>
+          <div
+            style="display: flex; flex-direction: row;"
+          >
+            <div
+              style="display: flex; flex-direction: column;"
+            >
+              <h5
+                style="margin: 10px;"
+              >
+                0
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                1
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                2
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                3
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                4
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                5
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                6
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                7
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                8
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                9
+              </h5>
+            </div>
+            <div
+              style="display: grid; grid-template-columns: repeat(10, 30px);"
+            >
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h3>
+          Computer: 0
+        </h3>
+        <div>
+          <div
+            style="display: flex; flex-direction: row; margin-left: 20px;"
+          >
+            <h5
+              style="margin: 11.5px;"
+            >
+              A
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              B
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              C
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              D
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              E
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              F
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              G
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              H
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              I
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              J
+            </h5>
+          </div>
+          <div
+            style="display: flex; flex-direction: row;"
+          >
+            <div
+              style="display: flex; flex-direction: column;"
+            >
+              <h5
+                style="margin: 10px;"
+              >
+                0
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                1
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                2
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                3
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                4
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                5
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                6
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                7
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                8
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                9
+              </h5>
+            </div>
+            <div
+              style="display: grid; grid-template-columns: repeat(10, 30px);"
+            >
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      style="margin: 20px;"
+    >
+      <div
+        style="display: flex; flex-direction: row;"
+      >
+        <div
+          class="MuiBox-root css-1domaf0"
+        >
+          <div
+            class="MuiFormControl-root MuiFormControl-fullWidth css-q8hpuo-MuiFormControl-root"
+          >
+            <label
+              class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+              data-shrink="false"
+              id="demo-simple-select-label"
+            >
+              Ships
+            </label>
+            <div
+              class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+            >
+              <div
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-labelledby="demo-simple-select-label demo-simple-select"
+                class="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+                id="demo-simple-select"
+                role="button"
+                tabindex="0"
+              >
+                <span
+                  class="notranslate"
+                >
+                  ​
+                </span>
+              </div>
+              <input
+                aria-hidden="true"
+                class="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+                tabindex="-1"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M7 10l5 5 5-5z"
+                />
+              </svg>
+              <fieldset
+                aria-hidden="true"
+                class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+              >
+                <legend
+                  class="css-173wfxe"
+                >
+                  <span>
+                    Ships
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root css-ajfuxj-MuiFormControl-root-MuiTextField-root"
+        >
+          <label
+            class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary Mui-required css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+            data-shrink="false"
+            for="outlined-required"
+            id="outlined-required-label"
+          >
+            Start Cell
+            <span
+              aria-hidden="true"
+              class="MuiInputLabel-asterisk MuiFormLabel-asterisk css-wgai2y-MuiFormLabel-asterisk"
+            >
+               *
+            </span>
+          </label>
+          <div
+            class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiOutlinedInput-input MuiInputBase-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+              id="outlined-required"
+              placeholder="Example 'A1'"
+              required=""
+              type="text"
+              value=""
+            />
+            <fieldset
+              aria-hidden="true"
+              class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="css-173wfxe"
+              >
+                <span>
+                  Start Cell *
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root css-15qwnc5"
+        >
+          <div
+            class="MuiFormControl-root MuiFormControl-fullWidth css-q8hpuo-MuiFormControl-root"
+          >
+            <label
+              class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+              data-shrink="false"
+              id="demo-simple-select-label"
+            >
+              End Cell
+            </label>
+            <div
+              class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+            >
+              <div
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-labelledby="demo-simple-select-label demo-simple-select"
+                class="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+                id="demo-simple-select"
+                role="button"
+                tabindex="0"
+              >
+                <span
+                  class="notranslate"
+                >
+                  ​
+                </span>
+              </div>
+              <input
+                aria-hidden="true"
+                class="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+                tabindex="-1"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M7 10l5 5 5-5z"
+                />
+              </svg>
+              <fieldset
+                aria-hidden="true"
+                class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+              >
+                <legend
+                  class="css-173wfxe"
+                >
+                  <span>
+                    End Cell
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <button
+          class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1clzr65-MuiButtonBase-root-MuiButton-root"
+          data-testid="button-deploy"
+          tabindex="0"
+          type="button"
+        >
+          Deploy
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1clzr65-MuiButtonBase-root-MuiButton-root"
+          data-testid="button-reset"
+          tabindex="0"
+          type="button"
+        >
+          Reset
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1clzr65-MuiButtonBase-root-MuiButton-root"
+          data-testid="button-start"
+          tabindex="0"
+          type="button"
+        >
+          Start
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`should take a snapshot of DeploymentBar 1`] = `
+<DocumentFragment>
+  <div
+    style="display: flex; flex-direction: row;"
+  >
+    <div
+      class="MuiBox-root css-1domaf0"
+    >
+      <div
+        class="MuiFormControl-root MuiFormControl-fullWidth css-q8hpuo-MuiFormControl-root"
+      >
+        <label
+          class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+          data-shrink="false"
+          id="demo-simple-select-label"
+        >
+          Ships
+        </label>
+        <div
+          class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+        >
+          <div
+            aria-expanded="false"
+            aria-haspopup="listbox"
+            aria-labelledby="demo-simple-select-label demo-simple-select"
+            class="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+            id="demo-simple-select"
+            role="button"
+            tabindex="0"
+          >
+            <span
+              class="notranslate"
+            >
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+            data-testid="ArrowDropDownIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+          <fieldset
+            aria-hidden="true"
+            class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="css-173wfxe"
+            >
+              <span>
+                Ships
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiFormControl-root MuiTextField-root css-ajfuxj-MuiFormControl-root-MuiTextField-root"
+    >
+      <label
+        class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary Mui-required css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+        data-shrink="false"
+        for="outlined-required"
+        id="outlined-required-label"
+      >
+        Start Cell
+        <span
+          aria-hidden="true"
+          class="MuiInputLabel-asterisk MuiFormLabel-asterisk css-wgai2y-MuiFormLabel-asterisk"
+        >
+           *
+        </span>
+      </label>
+      <div
+        class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiOutlinedInput-input MuiInputBase-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+          id="outlined-required"
+          placeholder="Example 'A1'"
+          required=""
+          type="text"
+          value=""
+        />
+        <fieldset
+          aria-hidden="true"
+          class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            class="css-173wfxe"
+          >
+            <span>
+              Start Cell *
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root css-15qwnc5"
+    >
+      <div
+        class="MuiFormControl-root MuiFormControl-fullWidth css-q8hpuo-MuiFormControl-root"
+      >
+        <label
+          class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+          data-shrink="false"
+          id="demo-simple-select-label"
+        >
+          End Cell
+        </label>
+        <div
+          class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+        >
+          <div
+            aria-expanded="false"
+            aria-haspopup="listbox"
+            aria-labelledby="demo-simple-select-label demo-simple-select"
+            class="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+            id="demo-simple-select"
+            role="button"
+            tabindex="0"
+          >
+            <span
+              class="notranslate"
+            >
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+            data-testid="ArrowDropDownIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+          <fieldset
+            aria-hidden="true"
+            class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="css-173wfxe"
+            >
+              <span>
+                End Cell
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+    <button
+      class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1clzr65-MuiButtonBase-root-MuiButton-root"
+      data-testid="button-deploy"
+      tabindex="0"
+      type="button"
+    >
+      Deploy
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+    <button
+      class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1clzr65-MuiButtonBase-root-MuiButton-root"
+      data-testid="button-reset"
+      tabindex="0"
+      type="button"
+    >
+      Reset
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+    <button
+      class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1clzr65-MuiButtonBase-root-MuiButton-root"
+      data-testid="button-start"
+      tabindex="0"
+      type="button"
+    >
+      Start
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`should take a snapshot of PlayGround 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+    style="display: flex; flex-direction: column;"
+  >
+    <div
+      style="display: flex; flex-direction: row; justify-content: space-around;"
+    >
+      <div>
+        <h3>
+          You: 0
+        </h3>
+        <div>
+          <div
+            style="display: flex; flex-direction: row; margin-left: 20px;"
+          >
+            <h5
+              style="margin: 11.5px;"
+            >
+              A
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              B
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              C
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              D
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              E
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              F
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              G
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              H
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              I
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              J
+            </h5>
+          </div>
+          <div
+            style="display: flex; flex-direction: row;"
+          >
+            <div
+              style="display: flex; flex-direction: column;"
+            >
+              <h5
+                style="margin: 10px;"
+              >
+                0
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                1
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                2
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                3
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                4
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                5
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                6
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                7
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                8
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                9
+              </h5>
+            </div>
+            <div
+              style="display: grid; grid-template-columns: repeat(10, 30px);"
+            >
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <h3>
+          Computer: 0
+        </h3>
+        <div>
+          <div
+            style="display: flex; flex-direction: row; margin-left: 20px;"
+          >
+            <h5
+              style="margin: 11.5px;"
+            >
+              A
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              B
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              C
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              D
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              E
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              F
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              G
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              H
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              I
+            </h5>
+            <h5
+              style="margin: 11.5px;"
+            >
+              J
+            </h5>
+          </div>
+          <div
+            style="display: flex; flex-direction: row;"
+          >
+            <div
+              style="display: flex; flex-direction: column;"
+            >
+              <h5
+                style="margin: 10px;"
+              >
+                0
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                1
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                2
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                3
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                4
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                5
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                6
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                7
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                8
+              </h5>
+              <h5
+                style="margin: 10px;"
+              >
+                9
+              </h5>
+            </div>
+            <div
+              style="display: grid; grid-template-columns: repeat(10, 30px);"
+            >
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+              <div
+                style="border: 1px solid black; display: flex; justify-content: center; align-items: center;"
+              >
+                *
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      style="margin: 20px;"
+    >
+      <div
+        style="display: flex; flex-direction: row;"
+      >
+        <div
+          class="MuiBox-root css-1domaf0"
+        >
+          <div
+            class="MuiFormControl-root MuiFormControl-fullWidth css-q8hpuo-MuiFormControl-root"
+          >
+            <label
+              class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+              data-shrink="false"
+              id="demo-simple-select-label"
+            >
+              Ships
+            </label>
+            <div
+              class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+            >
+              <div
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-labelledby="demo-simple-select-label demo-simple-select"
+                class="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+                id="demo-simple-select"
+                role="button"
+                tabindex="0"
+              >
+                <span
+                  class="notranslate"
+                >
+                  ​
+                </span>
+              </div>
+              <input
+                aria-hidden="true"
+                class="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+                tabindex="-1"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M7 10l5 5 5-5z"
+                />
+              </svg>
+              <fieldset
+                aria-hidden="true"
+                class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+              >
+                <legend
+                  class="css-173wfxe"
+                >
+                  <span>
+                    Ships
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root css-ajfuxj-MuiFormControl-root-MuiTextField-root"
+        >
+          <label
+            class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary Mui-required css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+            data-shrink="false"
+            for="outlined-required"
+            id="outlined-required-label"
+          >
+            Start Cell
+            <span
+              aria-hidden="true"
+              class="MuiInputLabel-asterisk MuiFormLabel-asterisk css-wgai2y-MuiFormLabel-asterisk"
+            >
+               *
+            </span>
+          </label>
+          <div
+            class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiOutlinedInput-input MuiInputBase-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+              id="outlined-required"
+              placeholder="Example 'A1'"
+              required=""
+              type="text"
+              value=""
+            />
+            <fieldset
+              aria-hidden="true"
+              class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="css-173wfxe"
+              >
+                <span>
+                  Start Cell *
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root css-15qwnc5"
+        >
+          <div
+            class="MuiFormControl-root MuiFormControl-fullWidth css-q8hpuo-MuiFormControl-root"
+          >
+            <label
+              class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+              data-shrink="false"
+              id="demo-simple-select-label"
+            >
+              End Cell
+            </label>
+            <div
+              class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+            >
+              <div
+                aria-expanded="false"
+                aria-haspopup="listbox"
+                aria-labelledby="demo-simple-select-label demo-simple-select"
+                class="MuiSelect-select MuiSelect-outlined MuiOutlinedInput-input MuiInputBase-input css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input"
+                id="demo-simple-select"
+                role="button"
+                tabindex="0"
+              >
+                <span
+                  class="notranslate"
+                >
+                  ​
+                </span>
+              </div>
+              <input
+                aria-hidden="true"
+                class="MuiSelect-nativeInput css-yf8vq0-MuiSelect-nativeInput"
+                tabindex="-1"
+                value=""
+              />
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium MuiSelect-icon MuiSelect-iconOutlined css-hfutr2-MuiSvgIcon-root-MuiSelect-icon"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M7 10l5 5 5-5z"
+                />
+              </svg>
+              <fieldset
+                aria-hidden="true"
+                class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+              >
+                <legend
+                  class="css-173wfxe"
+                >
+                  <span>
+                    End Cell
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <button
+          class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1clzr65-MuiButtonBase-root-MuiButton-root"
+          data-testid="button-deploy"
+          tabindex="0"
+          type="button"
+        >
+          Deploy
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1clzr65-MuiButtonBase-root-MuiButton-root"
+          data-testid="button-reset"
+          tabindex="0"
+          type="button"
+        >
+          Reset
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1clzr65-MuiButtonBase-root-MuiButton-root"
+          data-testid="button-start"
+          tabindex="0"
+          type="button"
+        >
+          Start
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+    <div />
+  </div>
+</DocumentFragment>
+`;
+
+exports[`should take a snapshot of PlayingBar 1`] = `
+<DocumentFragment>
+  <div
+    style="display: flex; flex-direction: row;"
+  >
+    <div
+      class="MuiFormControl-root MuiTextField-root css-ajfuxj-MuiFormControl-root-MuiTextField-root"
+    >
+      <label
+        class="MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-outlined MuiFormLabel-root MuiFormLabel-colorPrimary Mui-required css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root"
+        data-shrink="false"
+        for="outlined-required"
+        id="outlined-required-label"
+      >
+        Attack Cell
+        <span
+          aria-hidden="true"
+          class="MuiInputLabel-asterisk MuiFormLabel-asterisk css-wgai2y-MuiFormLabel-asterisk"
+        >
+           *
+        </span>
+      </label>
+      <div
+        class="MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root"
+      >
+        <input
+          aria-invalid="false"
+          class="MuiOutlinedInput-input MuiInputBase-input css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input"
+          id="outlined-required"
+          placeholder="Example 'A1'"
+          required=""
+          type="text"
+          value=""
+        />
+        <fieldset
+          aria-hidden="true"
+          class="MuiOutlinedInput-notchedOutline css-1d3z3hw-MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            class="css-173wfxe"
+          >
+            <span>
+              Attack Cell *
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+    </div>
+    <button
+      class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1clzr65-MuiButtonBase-root-MuiButton-root"
+      tabindex="0"
+      type="button"
+    >
+      Attack
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+    <button
+      class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root  css-1clzr65-MuiButtonBase-root-MuiButton-root"
+      tabindex="0"
+      type="button"
+    >
+      New Game
+      <span
+        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+      />
+    </button>
+  </div>
+</DocumentFragment>
+`;
