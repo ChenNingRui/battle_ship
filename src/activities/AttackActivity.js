@@ -36,7 +36,7 @@ function isHitTheTarget(coords, grid){
 function isCellExist(cellName, grid, colsIndexs, rowsIndexs){
     const coords = interpretCellNameToValidCoords(cellName, colsIndexs, rowsIndexs);
 
-    if(coords.col !== -1 && coords.row !== -1 && grid[coords.row] && grid[coords.row][coords.col]){
+    if(coords && coords.col !== -1 && coords.row !== -1 && grid[coords.row] && grid[coords.row][coords.col]){
         return coords;
     }
 
@@ -45,7 +45,7 @@ function isCellExist(cellName, grid, colsIndexs, rowsIndexs){
 
 export function isValidAttackLocation(cellName, grid, colsIndexs, rowsIndexs){
     const coords = interpretCellNameToValidCoords(cellName, colsIndexs, rowsIndexs);
-    if(coords.row === -1 || coords.col === -1 
+    if(!coords || coords.row === -1 || coords.col === -1 
         || grid[coords.row][coords.col] === CELL_STATE.HIT.display
         || grid[coords.row][coords.col] === CELL_STATE.MISS.display){
             return false

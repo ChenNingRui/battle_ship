@@ -11,7 +11,7 @@ export const GAME_STATUS = {
 
 export function calculateTakenWin(ships){
     let taken = 0;
-    for(let i = 0; i < ships; i++){
+    for(let i = 0; i < ships.length; i++){
         taken += ships[i].length * ships[i].number;
     }
     return taken;
