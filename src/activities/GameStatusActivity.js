@@ -40,7 +40,7 @@ export function isWin(grid, takenWin){
             }
         }
     }
-    if(taken === 2) return true;
+    if(taken === takenWin) return true;
     return false;
 }
 
